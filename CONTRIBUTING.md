@@ -4,8 +4,11 @@ Contributing to NewBitcoin Core
 The NewBitcoin Core project operates an open contributor model where anyone is
 welcome to contribute towards development in the form of peer review, testing
 and patches.  
+
 There is a "Contributor Community Reward Program (CCRP)" to reward developer and other community members  who want to help in the development of NewBitcoin  vision  or in any way contribute to spread the awareness of this project that educate other users and developers, for eg. by creating online content, creating forums, social advertising , giving feedbacks, creating tutorials, solutions, and video content etc.
+
 Since the nBTC project is based on PoS consensus mechanim, so it requires a huge community of coin stakers before going for a hard fork. To build the stakers community who beleive in the nBTC vision, the nBTC coin is currently hosted on Ethereum blockchain as ERC-20 token with a total supply cap of 126 million out of which 100 million coins are available for distribution through a unique referral reward mechanism, 21 million coins are reserved for existing bitcoin users (during hard fork) and 5 million tokens are reserved for developer and contributors community. 
+
 nBTC tokens will be distributed out of 5 million community bucket based on each address percentage of the total  efforts put in by the individual. The amount of nBTC rewards paid out are proportional to the balance of each address and time staked.
 
 This document explains the practical process and guidelines for
