@@ -1,10 +1,10 @@
-New Bitcoin Core integration/staging tree
+NewBitcoin Core integration/staging tree
 =====================================
 
-What is New Bitcoin?
+What is NewBitcoin?
 ----------------
 
-New Bitcoin is a new private coin based on Proof of Stake consensus algorithm and Lightning Network to support micro payment transactions. 
+NewBitcoin is a new private coin based on Proof of Stake consensus algorithm and Lightning Network to support micro payment transactions. 
 
 NewBitcoin (nBTC) plans to utilize Bitcoin’s existing distributed ledger platform as a foundation to create its advanced next-generation
 cryptocurrency. The group believes that by leveraging Bitcoin, being the highest valued cryptocurrency, and Bitcoin’s existing distributed ledger
