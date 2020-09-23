@@ -11,7 +11,7 @@ cryptocurrency. The group believes that by leveraging Bitcoin, being the highest
 platform, being one of the best and most popular public blockchain platforms in the world, the group will be able to accelerate the development
 and adoption of new bitcoin platform.
 
-For more information, read the [original whitepaper](https://ipfs.io/ipfs/QmNai8Zg9Hsjy2QJkqEBYWWsKF82UeU14XbnDyBUX8MdFo/nBTC-WhitePaper.pdf).
+For more information, read the [original whitepaper](https://ipfs.io/ipfs/QmT1jJ9ZVLEfQq9hSCwNoMBj7TqcFSNrk3MQNmhXkp6WPu/nBTC-WhitePaper.pdf).
 
 Development Process
 -------------------
